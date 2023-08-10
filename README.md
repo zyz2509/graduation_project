@@ -2,7 +2,7 @@
 A model for 3D object detection with encoder-decoder structure.
 
 # How I prepare to do it?
-Inspired by PointNet/PointNet++ and PointTransformer v2,I design a hierarchic backbone(named after 'SA' and 'FP' just like those in the original pointnet) and have a progressive receptive field.I'm trying to use the point method in a voxel manner,which takes full advantage of the high efficiency and the bottom-up structure of the point-based method,and trades off some quantification accuracy and memory consumption for a faster behavior.
+Inspired by PointNet/PointNet++ and PointTransformer v2,I designed a hierarchic backbone(named after 'SA' and 'FP' just like those in the original pointnet) and have a progressive receptive field.I'm trying to use the point method in a voxel manner,which takes full advantage of the high efficiency and the bottom-up structure of the point-based method,and trades off some quantification accuracy and memory consumption for a faster behavior.
 
 # Details of my work?
 Backbone:
