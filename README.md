@@ -1,3 +1,5 @@
-The title of the graduation thesis is:Deformable Convolution BEV Constructor(DCBC)
+The title of the graduation thesis is:</br>
+# __A Point-Pillar Pair Convolution Network for BEV Construction (P3CN)__</br>
 
-![framework1](https://github.com/zyz2509/graduation_project/assets/141907794/0b083ff3-bbae-4f62-b1e9-8e967d4c2f6d)
+![framework](https://github.com/zyz2509/graduation_project/assets/141907794/a503a71e-8cf3-4a9a-a435-441c542cb161)
+
